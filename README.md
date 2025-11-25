@@ -1,3 +1,4 @@
-# CV Абдрахманова Алдияра на Русском Языке:
+# My CVs in Russian and English:
 
-<embed src="./CV-rus_cen.pdf" type="application/pdf" width="100%" height="1280px" />
+<a href="./russian_cv.html">На Русском</a>
+<a href="./english_cv.html">In English</a>
